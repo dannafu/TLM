@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Puntos de interés UNAL</name>
+  <Placemark>
+    <name>Super CADE CAD</name>
+    <description>Gubernamental</description>
+    <Point>
+      <coordinates>-74.08146134361073,4.625506660993087,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Park Way</name>
+    <description>Jardin</description>
+    <Point>
+      <coordinates>-74.07517093770461,4.629851742196703,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Estadio Nemesio Camacho El Campín</name>
+    <description>Estadio</description>
+    <Point>
+      <coordinates>-74.07773010270574,4.645649761709385,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Embajada americana de Colombia</name>
+    <description>Embajada</description>
+    <Point>
+      <coordinates>-74.09468732483387,4.636203543110206,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Corferias</name>
+    <description>Recinto</description>
+    <Point>
+      <coordinates>-74.08995161819571,4.629315523087779,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

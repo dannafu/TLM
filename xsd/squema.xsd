@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="facturas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="factura" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="factura">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="emisor" type="xs:string"/>
+        <xs:element name="fecha" type="xs:string"/>
+        <xs:element name="receptor" type="xs:string"/>
+        <xs:element name="concepto" type="xs:string"/>
+        <xs:element name="descripcion" type="xs:string"/>
+        <xs:element name="tiempo" type="xs:string"/>
+        <xs:element name="hectareas" type="xs:string"/>
+        <xs:element name="porcentaje" type="xs:string"/>
+        <xs:element name="valor" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="700px" stroke="black" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" width="900" height="640" fill="#fafafa"/>
+	<rect x="40" y="60" width="820" height="520" fill="url(#grid)" stroke="#d0d7de" stroke-width="1"/>
+	<text x="450" y="40" text-anchor="middle" font-family="Calibri" font-size="22" fill="#111">
+	Esquema de ubicación — Universidad Nacional de Colombia (Sede Bogotá)
+	</text>
+
+	<line x1="70" y1="100" x2="70" y2="80" stroke="#333" stroke-width="2" />
+	<polygon points="70,70 75,80 65,80" stroke="#333" stroke-width="2" fill="#333"/>
+	<text x="70" y="115" text-anchor="middle" font-family="Calibri" font-size="12" fill="#333">N
+	</text>
+
+	<polygon points="350,220 600,170 640,220 640,450 628,430 550,350" fill="rgba(220,0,0,0.10)" stroke="#e11d48" stroke-width="4"/>
+	<text x="520" y="250" text-anchor="middle" font-family="Arial" font-size="14" fill="#b91c1c">
+	Universidad Nacional de Colombia
+	</text>
+
+	<text x="520" y="270" text-anchor="middle" font-family="Arial" font-size="14" fill="#b91c1c">
+	(Sede Bogotá)
+	</text>
+
+	<line x1="650" y1="90" x2="650" y2="570" stroke="#6b7280" stroke-width="6"/>
+	<text x="648" y="110" font-family="Arial" font-size="13" fill="#111" transform="rotate(90 648 120)">Av. NQS / Cra 30</text>
+		
+	<line x1="150" y1="100" x2="800" y2="575" stroke="#6b7280" stroke-width="6"/>
+	<text x="300" y="425" font-family="Arial" font-size="13" fill="#111" transform="rotate(38 648 120)">Av. El Dorado / Calle 26
+	</text>
+
+	<rect x="330" y="400" width="140" height="60" fill="none" stroke="#64748b" stroke-width="3"/>
+	<text x="400" y="390" text-anchor="middle" font-family="Arial" font-size="12" fill="#1f2937">
+	Corferias</text>
+
+	<circle cx="700" cy="190" r="18" fill="none" stroke="#22c55e" stroke-width="3"/>
+  	<text x="725" y="194" font-family="Arial" font-size="12" fill="#14532d">Estadio El Campín
+  	</text>
+
+	<path d="M720 400 Q770 430 820 420" fill="none" stroke="#10b981" stroke-width="3" stroke-dasharray="4 4"/>
+  	<text x="820" y="415" font-family="Arial" font-size="12" fill="#065f46" text-anchor="end">Parkway</text>
+
+  	<circle cx="677" cy="520" r="24" fill="none" stroke="#22389bff" stroke-width="3"/>
+  	<text x="660" y="555" font-family="Arial" font-size="12" fill="#333">Super Cade CAD</text>
+
+	<defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0 L0 0 0 30" fill="none" stroke="#e9ecef" stroke-width="1"/>
+    </pattern>
+  </defs>
+</svg>
+
+

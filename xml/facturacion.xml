@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<facturas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/squema.xsd">
+  <factura>
+    <emisor>Carolina Pérez Gómez</emisor>
+    <fecha>07/01/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Elaboración de Plan de Ordenamiento Forestal</concepto>
+    <descripcion>Diseño técnico y normativo del plan de ordenamiento forestal para 1.200 hectáreas de bosque natural.</descripcion>
+    <tiempo>3 meses</tiempo>
+    <hectareas>1,200</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>14,500,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Juan Sebastián Rodríguez</emisor>
+    <fecha>20/01/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Inventario Forestal y Valoración de Bosques</concepto>
+    <descripcion>Levantamiento y muestreo estadístico en 200 hectáreas de plantaciones de pino y eucalipto.</descripcion>
+    <tiempo>45 días</tiempo>
+    <hectareas>200</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>6,800,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>María Fernanda Castillo</emisor>
+    <fecha>05/02/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Asesoría en Reforestación y Establecimiento de Plantaciones</concepto>
+    <descripcion>Asistencia técnica en la siembra y establecimiento de 50 hectáreas de restauración ecológica.</descripcion>
+    <tiempo>2 meses</tiempo>
+    <hectareas>50</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>10,200,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Carlos Andrés Martínez</emisor>
+    <fecha>15/02/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Diseño de Proyecto de Pago por Servicios Ambientales</concepto>
+    <descripcion>Estructuración del proyecto de conservación hídrica para acceso a incentivos PSA en microcuenca.</descripcion>
+    <tiempo>2 meses</tiempo>
+    <hectareas>300</hectareas>
+    <porcentaje>10%</porcentaje>
+    <valor>19,000,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Laura Natalia Suárez</emisor>
+    <fecha>02/03/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Estudio de Impacto Ambiental Forestal</concepto>
+    <descripcion>Análisis de impacto de obra vial sobre ecosistemas boscosos con énfasis en corredores de fauna.</descripcion>
+    <tiempo>4 meses</tiempo>
+    <hectareas>500</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>22,500,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Andrés Felipe Cárdenas</emisor>
+    <fecha>21/03/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Formulación de Proyecto de Silvicultura Urbana</concepto>
+    <descripcion>Planificación y diseño de arborización urbana con 1.200 individuos arbóreos en parques y vías.</descripcion>
+    <tiempo>6 meses</tiempo>
+    <hectareas>N/a</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>7,200,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Paola Andrea Rincón</emisor>
+    <fecha>09/04/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Peritaje Forestal y Valoración de Daños</concepto>
+    <descripcion>Informe pericial por afectación de 25 hectáreas de bosque a causa de incendio forestal.</descripcion>
+    <tiempo>30 días</tiempo>
+    <hectareas>25</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>8,700,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Santiago Mejía López</emisor>
+    <fecha>26/04/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Capacitación y Talleres en Silvicultura</concepto>
+    <descripcion>Taller práctico en identificación de especies y manejo de viveros para 40 participantes.</descripcion>
+    <tiempo>5 días</tiempo>
+    <hectareas>N/a</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>4,000,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Valentina Torres Ramírez</emisor>
+    <fecha>14/05/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Elaboración de Plan de Manejo para Aprovechamiento Forestal</concepto>
+    <descripcion>Documento técnico para el aprovechamiento sostenible de 150 hectáreas de plantaciones de teca.</descripcion>
+    <tiempo>2 meses</tiempo>
+    <hectareas>150</hectareas>
+    <porcentaje>N/a</porcentaje>
+    <valor>13,500,000</valor>
+  </factura>
+
+  <factura>
+    <emisor>Diego Alejandro Gómez</emisor>
+    <fecha>29/05/2025</fecha>
+    <receptor>Danna Fuquene</receptor>
+    <concepto>Consultoría en Certificación Forestal FSC</concepto>
+    <descripcion>Acompañamiento en procesos de auditoría y certificación FSC para empresa maderera.</descripcion>
+    <tiempo>6 meses</tiempo>
+    <hectareas>N/a</hectareas>
+    <porcentaje>15%</porcentaje>
+    <valor>16,800,000</valor>
+  </factura>
+</facturas>
